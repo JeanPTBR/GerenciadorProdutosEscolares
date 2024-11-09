@@ -1,0 +1,6 @@
+dao\ProdutoDAOTest.class
+com\mycompany\productmanagerapp\JAXRSConfiguration.class
+dao\ProdutoDAO.class
+model\Produto.class
+dao\Database.class
+com\mycompany\productmanagerapp\resources\JavaEE8Resource.class
